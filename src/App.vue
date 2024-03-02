@@ -94,7 +94,7 @@ function changeColor(color, amount) {
               foreground: 'black',
               background: '#ffe4e1',
             }"
-            image_src="./src/assets/project_1.png"
+            image_src="project_1.png"
             image_pos="center"
             :project_id=1
           >
@@ -109,7 +109,7 @@ function changeColor(color, amount) {
               foreground: 'white',
               background: '#ec2c01',
             }"
-            image_src="./src/assets/project_2.png"
+            image_src="project_2.png"
             image_pos="center"
             :project_id=2
           >
@@ -124,7 +124,7 @@ function changeColor(color, amount) {
               foreground: 'white',
               background: '#027898',
             }"
-            image_src="./src/assets/project_3.png"
+            image_src="project_3.png"
             image_pos="center"
             :project_id=3
           >
@@ -139,7 +139,7 @@ function changeColor(color, amount) {
               foreground: 'black',
               background: '#e6e4e0',
             }"
-            image_src="./src/assets/project_4.png"
+            image_src="project_4.png"
             image_pos="center"
             :project_id=4
           >

@@ -71,7 +71,7 @@ p {
   min-height: 500px;
   height: auto;
   padding: 0.5em;
-  border-radius: 0.75em;
+  border-radius: 10px;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -111,5 +111,53 @@ p {
 
 img {
   align-self: flex-start;
+}
+
+@media (max-width: 767px) {
+  .Card {
+    min-height: 300px;
+  }
+}
+
+@media (min-width: 768px) {
+  .Card {
+    min-height: 300px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .Card {
+    min-height: 350px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .Card {
+    min-height: 375px;
+  }
+}
+
+@media (min-width: 1536px) {
+  .Card {
+    min-height: 400px;
+  }
+}
+
+@media (min-width: 1920px) {
+  .Card {
+    min-height: 500px;
+  }
+}
+
+@media (min-width: 2560px) {
+  .Project {
+    width: 50%;
+  }
+}
+
+@media (min-width: 3440px) {
+  .Project {
+    width: 40%;
+  }
 }
 </style>

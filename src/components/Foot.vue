@@ -1,7 +1,8 @@
 <template>
 <div>
-    <p>Site built with Vue</p>
-    <p>hans.jimenez@ciit.edu.ph</p>
+    <p>Reach me at</p>
+    <p><a href="mailto:hans.jimenez@ciit.edu.ph">hans.jimenez@ciit.edu.ph</a></p>
+    <p>0917-155-2782</p>
 </div>
 </template>
 
@@ -15,7 +16,17 @@
         bottom: 0;
     }
 
+    a {
+        color: inherit;
+        font-style: normal;
+    }
+
     p {
-        font-size: 18px;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    p:first-child {
+        margin-bottom: 0.4em;
     }
 </style>

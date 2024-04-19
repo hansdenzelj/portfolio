@@ -1,7 +1,8 @@
-# Vue 3 + Vite
+# Simple Portfolio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a simple static portfolio site made using Vue 3 to be deployed on github-pages.
 
-## Recommended IDE Setup
+Yes.. its a lot of Spaghetti, and not the tasty kind.
+:^(
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Will make a proper portfolio site another time, I just used this to learn more about Vue because it was interesting. 
